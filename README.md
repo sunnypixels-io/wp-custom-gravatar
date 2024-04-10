@@ -13,4 +13,4 @@ This plugin is required an `Advanced Custom Fields` plugin to be installed and a
 
 ## License
 
-This project is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details
