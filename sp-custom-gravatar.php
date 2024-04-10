@@ -3,7 +3,7 @@
  * Plugin Name: Custom Gravatar
  * Description: Add custom gravatar field to user profile.
  * Version: 1.0.0
- * Plugin URI:
+ * Plugin URI: https://github.com/sunnypixels-io/wp-custom-gravatar
  * Author: Alex Zappa at SunnyPixels
  * Author URI: https://alex.zappa.dev/
  * License: GPL-3.0+
