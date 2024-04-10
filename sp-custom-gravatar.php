@@ -80,11 +80,12 @@ if (class_exists('ACF')) {
             return $avatar;
 
         $custom_avatar = get_user_meta($id, 'custom_gravatar', true);
+
         if ($custom_avatar) {
             $custom_avatar = wp_get_attachment_image_src($custom_avatar)[0];
             $avatar = "<img alt='{$alt}' src='{$custom_avatar}' class='avatar avatar-{$size} photo' height='{$size}' width='{$size}' {$args['extra_attr']} />";
-            //php_pretty_print($avatar);
         }
+
         return $avatar;
     }
 
